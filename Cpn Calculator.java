@@ -1,5 +1,5 @@
 import java.util.*;
- class cpn program {
+ class cpnprogram {
     public static void main(String[] args) {
         double a,b,cpn;
         int c;
@@ -10,7 +10,7 @@ import java.util.*;
         b=obj.nextInt();
         System.out.println("enter test marks ");
         c=obj.nextInt();
-        cpn=(a*0.10)(b*0.30)+(c*0.60);
+        cpn=(a*0.10)+(b*0.30)+(c*0.60);
         System.out.print("the cpn is"+cpn);
     }
 }
