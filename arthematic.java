@@ -1,5 +1,5 @@
 import java.util.*;
-class airthematic{
+class arthematic{
 public static void main(String[] arg){
 double a;
 double b;
